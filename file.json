@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "date": "2019-09-05T21:00:00",
+        "vote": 10,
+        "name": "Anna",
+        "title": "Soggiorno perfetto! Ci torneremo sicuramente!",
+        "description": "I proprietari ci hanno accolto dimostrando da subito grande disponibilità portandoci anche su il bagaglio e fornendoci tutte le indicazioni necessarie per il nostro soggiorno. Camera perfetta: materasso e cuscini comodissimi, camera molto pulita, bagno comodo e pulito con un box doccia molto spazioso, ottima colazione al bar convenzionato (oltre a questa, offrono in camera fette biscottate con Nutella o marmellata, tè e caffe) All'arrivo abbiamo trovato sul letto 2 confezioni di Grisbì al cioccolato!!! Mai pensiero fu più gradito! Ahahahah! Ci torneremo sicuramente!!!",
+        "source": "booking.com"
+    },
+    {
+        "id": 1,
+        "date": "2019-10-17T21:00:00",
+        "vote": 8,
+        "name": "Flavio",
+        "title": "Ottimo",
+        "description": "Luminosissima, confortevole e di un estrema pulizia. Posizionato in uno dei posti più belli della città. Con ottimi punti di ristoro nelle vicinanze,supermarket e tutto ciò che serve per un soggiorno di breve o più lunga durata.",
+        "source": "booking.com"
+    },
+    {
+        "id": 2,
+        "date": "2019-09-25T21:00:00",
+        "vote": 9.2,
+        "name": "",
+        "title": "Consigliato sicuramente!",
+        "description": "L'host (Alessandro) è stato gentilissimo, sia nell'accoglierci sia nell'indicarci le pizzerie più buone della zona. La stanza è piccola ma molto pulita, comoda e silenziosa. Inoltre, si trova a due passi da un belvedere spettacolare!",
+        "source": "booking.com"
+    },
+    {
+        "id": 3,
+        "date": "2020-08-05T21:00:00",
+        "vote": 9.6,
+        "name": "Giovanni",
+        "title": "Eccezionale",
+        "description": "Curata nei minimi dettagli",
+        "source": "booking.com"
+    },
+    {
+        "id": 4,
+        "date": "2019-10-25T21:00:00",
+        "vote": 9.6,
+        "name": "Silvano",
+        "title": "Ottimo",
+        "description": "la pulizia la gentilezza dello staff e la posizione",
+        "source": "booking.com"
+    }
+]
